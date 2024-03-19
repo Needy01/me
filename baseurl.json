@@ -1,1 +1,4 @@
-https://142.171.85.252:3000/v1
+{
+  "chatgpt_model": "gpt-3.5-turbo",
+  "baseurl": "https://api.example.com"
+}
